@@ -1,0 +1,17 @@
+{
+  "options.libgui.libgui_settings": "CialloLib-asetukset",
+  "option.libgui.darkmode": "Tumma tila",
+  "widget.ciallolib.item_slot.narration.title": "Tavararuutu %s / %s",
+  "widget.ciallolib.labeled_slider.narration.title": "%s-liukusäädin: kohdassa %s %s:n ja %s:n välillä",
+  "widget.ciallolib.scroll_bar.narration.title": "Vierityspalkki",
+  "widget.ciallolib.slider.narration.title": "Liukusäädin: kohdassa %s %s:n ja %s:n välillä",
+  "widget.ciallolib.slider.narration.usage": "Siirrä raahaamalla tai nuolinäppäimillä",
+  "widget.ciallolib.tab.narration.title": "%s-välilehti",
+  "widget.ciallolib.tab.narration.position": "Välilehti %s / %s",
+  "widget.ciallolib.text_field.narration.title": "Tekstikenttä: %s",
+  "widget.ciallolib.text_field.narration.suggestion": "Ehdotus: %s",
+  "widget.ciallolib.toggle_button.narration.unnamed": "Kytkinpainike: %s",
+  "widget.ciallolib.toggle_button.narration.named": "Kytkinpainike: %s (%s)",
+  "widget.ciallolib.toggle_button.narration.on": "Päällä",
+  "widget.ciallolib.toggle_button.narration.off": "Pois päältä"
+} 

@@ -1,0 +1,34 @@
+# CialloLib — NeoForge 1.21.1 port of CottonMC/LibGui (MIT)
+# 由 MahjongCraft 移植版抽出為獨立函式庫模組
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "ciallolib"
+version = "${version}"
+displayName = "CialloLib"
+description = '''
+Easy grid-based GUIs. A fork of CottonMC/LibGui 10.0.0 (MIT), ported to NeoForge 1.21.1.
+Originally bundled inside MahjongCraft, now a standalone library.
+'''
+authors = "The Cotton Project (upstream LibGui), bingbohejun (NeoForge port)"
+credits = "Falkreon, Juuz"
+logoFile = "assets/ciallolib/icon.png"
+
+[[dependencies.ciallolib]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.ciallolib]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "mixins.ciallolib.json"

@@ -1,0 +1,17 @@
+{
+  "options.libgui.libgui_settings": "Paramètres de CialloLib",
+  "option.libgui.darkmode": "Mode sombre",
+  "widget.ciallolib.item_slot.narration.title": "Emplacement %s sur %s",
+  "widget.ciallolib.labeled_slider.narration.title": "%s slider: at %s between %s and %s",
+  "widget.ciallolib.scroll_bar.narration.title": "Barre de défilement",
+  "widget.ciallolib.slider.narration.title": "Curseur: à %s entre %s et %s",
+  "widget.ciallolib.slider.narration.usage": "Déplacer en tirant ou avec les flêches directionnelles",
+  "widget.ciallolib.tab.narration.title": "Onglet %s",
+  "widget.ciallolib.tab.narration.position": "Onglet %s sur %s",
+  "widget.ciallolib.text_field.narration.title": "Champ textuel: %s",
+  "widget.ciallolib.text_field.narration.suggestion": "Suggestion: %s",
+  "widget.ciallolib.toggle_button.narration.unnamed": "Bouton à bascule: %s",
+  "widget.ciallolib.toggle_button.narration.named": "Bouton à bascule: %s (%s)",
+  "widget.ciallolib.toggle_button.narration.on": "Activé",
+  "widget.ciallolib.toggle_button.narration.off": "Désactivé"
+} 

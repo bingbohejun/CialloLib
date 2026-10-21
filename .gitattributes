@@ -1,0 +1,21 @@
+# 统一换行符为 LF（Windows/Linux/macOS 协作一致）
+* text=auto eol=lf
+
+# 明确按文本处理
+*.kt      text
+*.java    text
+*.gradle  text
+*.kts     text
+*.properties text
+*.md      text
+*.json    text
+*.json5   text
+
+# 明确按二进制处理（不转换）
+*.jar     binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.ttf     binary
+*.otf     binary

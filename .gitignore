@@ -1,0 +1,28 @@
+# 构建产物
+build/
+.gradle/
+.kotlin/
+run/
+out/
+
+# 本地二进制依赖（如有）
+libs/
+
+# 日志
+*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# Gradle 本地缓存
+gradle/wrapper/gradle-wrapper.properties.bak
