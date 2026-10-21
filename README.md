@@ -1,8 +1,8 @@
 # CialloLib
 
-Minecraft NeoForge 1.21.1 的 GUI 函式库模组，由我（作者）从 [CottonMC/LibGui](https://github.com/CottonMC/LibGui) 移植并独立化维护（上游 10.0.0，MIT）。
+Minecraft NeoForge 1.21.1 的 GUI 函式库模组，由我从 [CottonMC/LibGui](https://github.com/CottonMC/LibGui) 移植并独立化维护（上游 10.0.0，MIT）。
 
-原本以「LibGui 移植版」内嵌在 MahjongGame（原 MahjongCraft）里，现独立为单独的模组，作为任何需要网格式 GUI 的模组的可复用依赖（MahjongGame 已将其声明为必需依赖）。
+原本以「LibGui 移植版」内嵌在 MahjongGame里，现独立为单独的模组，作为任何需要网格式 GUI 的模组的可复用依赖（MahjongGame 已将其声明为必需依赖）。
 
 - 运行环境：**Minecraft 1.21.1 + NeoForge 21.1.127+**
 - 许可：MIT
